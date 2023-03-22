@@ -22,4 +22,4 @@ Contents
 
    usage
    api
-   new page
+   new_page
